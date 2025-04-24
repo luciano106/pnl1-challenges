@@ -74,6 +74,9 @@ Este primer prototipo del bot utiliza conversaciones en inglés para aprender pa
 ## 🧑‍💻 Autor
 
 **Nombre:** Luciano Adassus
-**Email:** luciano106@gmail.com 
-**Institución:** Universidad de Buenos Aires  
+
+**Email:** luciano106@gmail.com
+
+**Institución:** Universidad de Buenos Aires
+
 **Curso:** Procesamiento del Lenguaje Natural (PNL1) – 2025
