@@ -59,7 +59,7 @@ Se generaron textos utilizando greedy search, beam search determinístico y esto
 Construir un BOT conversacional basado en el dataset **ConvAI2 (Conversational Intelligence Challenge 2)**, orientado a tareas de preguntas y respuestas (QA).  
 Este primer prototipo del bot utiliza conversaciones en inglés para aprender patrones de diálogo y brindar respuestas relevantes al usuario, estableciendo las bases para una arquitectura de diálogo más compleja.
 
-📎 [Abrir en Colab](https://colab.research.google.com/github/luciano106/pnl1-challenges/blob/master/exercises/PNL1-challenge-4.ipynb)
+📎 [Abrir en Colab](https://colab.research.google.com/github/luciano106/pnl1-challenges/blob/master/exercises/PNL1-challange-4.ipynb)
 
 ---
 
