@@ -24,7 +24,7 @@ Se realizó la vectorización del texto mediante técnicas de bolsa de palabras 
 
 ---
 
-### 2️⃣ Word2Vec entrenado con Don Quijote
+### 2️⃣ Vectores de Palabras
 
 ![Word2Vec](https://github.com/luciano106/pnl1-challenges/blob/master/exercises/word2vec.jpg)
 
